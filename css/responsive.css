@@ -44,7 +44,8 @@ wrapper {
   }
   .col-1, .col-2, .col-3
   {
-    width: 100%
-    float:none 
+    width: 100%;
+    float: none;
+    margin-left: 0; 
   }
 }
