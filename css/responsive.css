@@ -46,6 +46,14 @@ wrapper {
   {
     width: 100%;
     float: none;
-    margin-left: 0; 
+    margin-left: 0;
+  }
+  .border-right
+  {
+    border-right: 0;
+  }
+  #details div
+  {
+    height: auto;
   }
 }
